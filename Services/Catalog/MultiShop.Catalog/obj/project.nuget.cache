@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "68O8abIz1or3bwgOKKf7xNkJwJEAXcj9FjrPyXbw185y9cYXfP7Ueraa6L+Xo7UQpCny59LaFKY0vWRGCqcjKQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHubRepo\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emrah\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emrah\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\emrah\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\emrah\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\emrah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\emrah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
